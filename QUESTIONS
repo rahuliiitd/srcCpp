@@ -16,3 +16,5 @@ mergeSort	->	Performs Merge Sort
 4.1 balancedOrNot	-> BFS Implementation	//If tree is binary, follow the recursive approach
 4.3 BSTfromSortedArray.cpp	//address of pointers lesson
 4.4 graphToLinkedList.cpp
+4.5 findSuccessor.cpp
+
