@@ -21,3 +21,4 @@ mergeSort	->	Performs Merge Sort
 
 referenceTest.cpp	-> Uses references for swaping the values of variables
 dfs.cpp			-> DFS Implementation
+libTest.cpp libHead.cpp lib1.cpp lib2.cpp libm.a libmd.so	-> For understanding Static and Dynamic Libraries
