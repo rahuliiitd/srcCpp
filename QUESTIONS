@@ -24,3 +24,7 @@ dfs.cpp			-> DFS Implementation
 libTest.cpp libHead.cpp lib1.cpp lib2.cpp libm.a libmd.so	-> For understanding Static and Dynamic Libraries
 
 firstUnique		-> Find the first unique character of a string (Amazon)
+
+charMemory.c		-> Concluded that just allocating even a small amount of memory will work while copying a string,
+			 but without allocation, we'll get a segmentation fault (Amazon)
+
