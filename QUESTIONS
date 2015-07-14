@@ -28,3 +28,4 @@ firstUnique		-> Find the first unique character of a string (Amazon)
 charMemory.c		-> Concluded that just allocating even a small amount of memory will work while copying a string,
 			 but without allocation, we'll get a segmentation fault (Amazon)
 
+intervalGreedy		-> Interval Scheduling when the durations are unweighted
