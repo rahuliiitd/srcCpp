@@ -32,3 +32,5 @@ intervalGreedy		-> Interval Scheduling when the durations are unweighted
 
 findBestKmobiles	-> Best K mobiles out of N mobile phones (Flipkart)
 
+multiFieldSort		-> Sorts a vector on multiple fields
+
