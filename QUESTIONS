@@ -29,3 +29,6 @@ charMemory.c		-> Concluded that just allocating even a small amount of memory wi
 			 but without allocation, we'll get a segmentation fault (Amazon)
 
 intervalGreedy		-> Interval Scheduling when the durations are unweighted
+
+findBestKmobiles	-> Best K mobiles out of N mobile phones (Flipkart)
+
