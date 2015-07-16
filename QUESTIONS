@@ -37,3 +37,5 @@ multiFieldSort		-> Sorts a vector on multiple fields
 stringToNumTest		-> Tests the conversion from string to int and double
 
 greedyKnapsack		-> Greedy Knapsack Implementation
+
+zero1KnapsackRecursive	-> Recursive Implementation of 0 1 Knapsack Problem
