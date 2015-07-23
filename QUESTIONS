@@ -45,3 +45,7 @@ matrixPassTest		-> Testing an easy and flexible way for passing 2D Matrix
 zero1KnapsackIterative	-> Iterative Implementation of 0 1 Knapsack Problem
 
 XMLparser		-> Checks whether the XML structure is valid (Direct i)
+
+funnyString.cpp		-> Hackerrank String Question
+
+removeConsecDuplicates.cpp	-> Hackerrank String Question
