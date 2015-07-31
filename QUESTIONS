@@ -49,3 +49,5 @@ XMLparser		-> Checks whether the XML structure is valid (Direct i)
 funnyString.cpp		-> Hackerrank String Question
 
 removeConsecDuplicates.cpp	-> Hackerrank String Question
+
+findMaxCoins.cpp	-> http://www.spoj.com/submit/FARIDA	(Simple DP)
